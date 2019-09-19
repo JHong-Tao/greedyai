@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abf5d8bd-98a4-42d7-8362-5ccff2ec2a38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simple_linear_regression/re_img/img2base64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_linear_regression/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/simple_linear_regression/README.MD" afterDir="false" />
-    </list>
+    <list default="true" id="abf5d8bd-98a4-42d7-8362-5ccff2ec2a38" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +11,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/greedyai$img2base64.coverage" NAME="img2base64 Coverage Results" MODIFIED="1568901522100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_linear_regression/re_img" />
     <SUITE FILE_PATH="coverage/greedyai$1.coverage" NAME="1 Coverage Results" MODIFIED="1568886078983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/greedyai$s_l_regression.coverage" NAME="s_l_regression Coverage Results" MODIFIED="1568900464951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_linear_regression" />
+    <SUITE FILE_PATH="coverage/greedyai$s_l_regression.coverage" NAME="s_l_regression Coverage Results" MODIFIED="1568902145517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_linear_regression" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple_linear_regression/s_l_regression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
@@ -26,6 +23,18 @@
               <folding>
                 <element signature="e#0#72#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simple_linear_regression/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="125">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/simple_linear_regression/s_l_regression.py" />
         <option value="$PROJECT_DIR$/simple_linear_regression/re_img/img2base64.py" />
         <option value="$PROJECT_DIR$/simple_linear_regression/README.MD" />
+        <option value="$PROJECT_DIR$/simple_linear_regression/README.md" />
       </list>
     </option>
   </component>
@@ -87,12 +97,6 @@
               <item name="greedyai" type="b2602c69:ProjectViewProjectNode" />
               <item name="greedyai" type="462c0819:PsiDirectoryNode" />
               <item name="simple_linear_regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="greedyai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="greedyai" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_linear_regression" type="462c0819:PsiDirectoryNode" />
-              <item name="re_img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.img2base64">
+  <component name="RunManager" selected="Python.s_l_regression">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="greedyai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,8 +200,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.img2base64" />
         <item itemvalue="Python.s_l_regression" />
+        <item itemvalue="Python.img2base64" />
         <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
@@ -212,12 +216,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568884118221</updated>
-      <workItem from="1568884126292" duration="7279000" />
+      <workItem from="1568884126292" duration="7628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7279000" />
+    <option name="totallyTimeSpent" value="7628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -267,16 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple_linear_regression/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_linear_regression/s_l_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -284,6 +278,16 @@
           <folding>
             <element signature="e#0#72#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_linear_regression/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
